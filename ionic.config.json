@@ -1,0 +1,7 @@
+{
+  "name": "cs-cord-11",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
